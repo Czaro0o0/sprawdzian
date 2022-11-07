@@ -3,7 +3,7 @@
         <html>
          <head>
           <meta charset="utf-8">
-      <title>Sprawdzian_Cezary_Barbucha</title>
+      <title></title>
     </head>
 <body>
 
